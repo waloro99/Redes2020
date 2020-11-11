@@ -1,0 +1,31 @@
+Edificios:
+1 Tec 5 niveles
+2 M
+3 L
+4 J
+5 H
+6 P 
+7 Q
+8 G -> DTI(3), varios servers
+- En cada edificio deberán encontrarse 15 computadoras
+- Cada edificio tiene 3 niveles
+- Cada edificio debe tener su propio segmento de red
+- Todos los edificios pueden llegar al portal. 
+- Tercer piso pertenece a administrativos, primer y segundo piso a estudiantes.
+- La red “estudiante” y “administrativa” se deben separar con técnicas de VLAN.
+- Todos los edificios y redes deben de poder acceder al portal URL.
+
+
+
+
+
+L y R:
+- Identificar cada dispositivo.
+- Incluir topología de la red.
+- Aplicar practicas de seguridad
+
+H y W:
+- investigación previa como apoyo y soporte del proyecto.
+- Definir cada segmento de red y subred.
+- Documentación de la distribución de VLAN’s.
+- PARTE PRÁCTICA
