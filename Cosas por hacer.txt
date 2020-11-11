@@ -15,10 +15,6 @@ Edificios:
 - La red “estudiante” y “administrativa” se deben separar con técnicas de VLAN.
 - Todos los edificios y redes deben de poder acceder al portal URL.
 
-
-
-
-
 L y R:
 - Identificar cada dispositivo.
 - Incluir topología de la red.
@@ -29,3 +25,6 @@ H y W:
 - Definir cada segmento de red y subred.
 - Documentación de la distribución de VLAN’s.
 - PARTE PRÁCTICA
+
+Excel en linea:
+https://docs.google.com/spreadsheets/d/1ZdObk3ezKFiY5fpcsfBrltj5fFi1mzYmhMmqsTxumAc/edit?usp=sharing
